@@ -9,6 +9,5 @@
 	- Posso aproveitar o comportamento herdado com "super" e fazer um diferencial
 	- Posso não aproveitar nada e fazer do meu jeito
 	
-<a href="#"><img align="center" src="./img and gifs/4885650.png" width="400 " height="300" /></a>
 
 	
