@@ -10,4 +10,4 @@
 > Exemplos:
 > - alterar o nome de um atributo que esta sendo acessado diretamente fora da classe, requer que la fora seja ajustado tbm
 > - mudar privilegios de alteração ou leitura sem impactar em quem consome, basta alterar a implementação nos gets e sets
-><a href="#"><img align="center" src=".entra21-aulas-orientada-objetos-java/img and gifs/images (3).jpg" width="400 " height="300" /></a>
+><a href="#"><img align="center" src="./entra21-aulas-orientada-objetos-java/img and gifs/images (3).jpg" width="400 " height="300" /></a>

@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="br.com.entra21.orientacaoobjetos.aula04.polimorfismointerfaces.Ponto"/>
+    <fullyQualifiedTypeName name="br.com.entra21.orientacaoobjetos.aula04.polimorfismointerfaces.Reta"/>
+    <fullyQualifiedTypeName name="br.com.entra21.orientacaoobjetos.aula02.heranca.Pessoa"/>
+    <fullyQualifiedTypeName name="br.com.entra21.orientacaoobjetos.aula04.interfaces.Humano"/>
+    <fullyQualifiedTypeName name="br.com.entra21.orientacaoobjetos.aula04.interfaces.Gato"/>
+    <fullyQualifiedTypeName name="br.com.entra21.orientacaoobjetos.aula04.interfaces.Capivara"/>
+    <fullyQualifiedTypeName name="br.com.entra21.orientacaoobjetos.aula04.interfaces.Planta"/>
+    <fullyQualifiedTypeName name="br.com.entra21.orientacaoobjetos.aula04.interfaces.Gado"/>
+    <fullyQualifiedTypeName name="br.com.entra21.orientacaoobjetos.aula04.interfaces.Sith"/>
+    <fullyQualifiedTypeName name="br.com.entra21.orientacaoobjetos.aula04.interfaces.Aviao"/>
+</qualifiedTypeNameHistroy>

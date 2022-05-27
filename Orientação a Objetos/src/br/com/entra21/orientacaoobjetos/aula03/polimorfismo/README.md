@@ -9,5 +9,6 @@
 	- Posso aproveitar o comportamento herdado com "super" e fazer um diferencial
 	- Posso não aproveitar nada e fazer do meu jeito
 	
-![Meme](.entra21-aulas-orientada-objetos-java/img and gifs/4885650.png)
+<a href="#"><img align="center" src="./entra21-aulas-orientada-objetos-java/img and gifs/4885650.png" width="400 " height="300" /></a>
+
 	
