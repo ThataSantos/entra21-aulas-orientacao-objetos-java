@@ -19,6 +19,7 @@ import br.com.entra21.orientacaoobjetos.aula04.interfaces.Gato;
 import br.com.entra21.orientacaoobjetos.aula04.interfaces.Humano;
 import br.com.entra21.orientacaoobjetos.aula04.interfaces.Planta;
 import br.com.entra21.orientacaoobjetos.aula04.interfaces.Sith;
+import br.com.entra21.orientacaoobjetos.aula05.pratica.Revisao;
 
 public class Main {
 
@@ -39,7 +40,8 @@ public class Main {
 			System.out.println("2 - Herança");
 			System.out.println("3 - Polimorfismo");
 			System.out.println("4- Conceitos POO");
-			System.out.println("5- polimorfismo com Interfaces");
+			System.out.println("5- Polimorfismo com Interfaces");
+			System.out.println("6- Pratica com todos os conceitos");
 			opcao = input.nextByte();
 
 			switch (opcao) {
@@ -60,6 +62,9 @@ public class Main {
 				break;
 			case 5:
 				aprenderPolimorfismoInterface();
+				break;
+			case 6:
+				revisarPOO();
 				break;
 			default:
 				break;
@@ -225,18 +230,23 @@ public class Main {
 		touro.alimentar("Capim");
 		touro.comunicar("tem leite?");
 		touro.locomover();
-		
-		Sith darth= new Sith("Vader");
+
+		Sith darth = new Sith("Vader");
 		darth.alimentar("Carne");
 		darth.comunicar("som de repiração");
 		darth.locomover();
-		
-		Aviao comercial= new Aviao();
+
+		Aviao comercial = new Aviao();
 		comercial.setModelo("Boeing 737");
 		System.out.println(comercial.freiar());
 		comercial.acelerar(870.5f);
 		System.out.println(comercial.getVelocidadeAtual());
-		
+
 	}
 
+	private static void revisarPOO() {
+
+		Revisao.revisar();
+
+	}
 }
